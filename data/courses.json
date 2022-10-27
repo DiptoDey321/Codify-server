@@ -53,25 +53,25 @@
       "category": "Design and Multimedia",
       "courses" : [
         {
-          "id" : 8,
+          "id" : 9,
           "name": "Graphics Design", 
           "price" : 44,
           "img" : "https://i.postimg.cc/mg83xDwC/graphics.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+          "des" : "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts.Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers" 
         },
         {
-            "id" : 9,
+            "id" : 10,
             "name": "Motion graphics", 
             "price" : 44,
             "img" : "https://i.postimg.cc/3RD2DZHF/motion.png",
-            "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+            "des" : "Meet The All-In-One Platform for Video Creators. 600K+ Drag & Drop Creative Video Assets. Explore The Best Motion Graphics Get Unlimited Downloads. Realize Your Vision. Start Now! New Assets Added Daily. Professional Templates. Get Unique Transitions. Easy to Use,Motion graphics (sometimes mograph) are pieces of animation or digital footage which create the illusion of motion or rotation, and are usually combined with audio for use in multimedia projects" 
           },
           {
-            "id" : 10,
+            "id" : 11,
             "name": "UI/UX design", 
             "price" : 44,
             "img" : "https://i.postimg.cc/mg83xDwC/graphics.png",
-            "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+            "des" : "UX (user experience) and UI (user interface) are two interdependent terms. While UI generally deals with the interaction between users and computer systems, software and applications, UX deals more generally with a user's overall experience with a brand, product or service. Both are important facets of the custom software development process, and both involve working closely with users to create interfaces that are both effective and easy to use" 
           }
       ]
       
@@ -81,18 +81,18 @@
       "category": "Digital Marketing",
       "courses" : [
         {
-          "id" : 11,
+          "id" : 12,
           "name": "Digital marketing", 
           "price" : 44,
           "img" : "https://i.postimg.cc/V63B7VFh/digital-marketing.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+          "des" : "Master the tools of business strategy to contribute meaningfully to your organization. Create value for customers, employees, and suppliers, and generate financial success. Case-Based Learning. Award-Winning Faculty. Online Courses. Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services" 
         },
         {
-          "id" : 12,
+          "id" : 13,
           "name": "Google Adsense", 
           "price" : 44,
           "img" : "https://i.postimg.cc/yYCyc2xg/adsense.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+          "des" : "Google AdSense is a program run by Google through which website publishers in the Google Network of content sites serve text, images, video, or interactive media advertisements that are targeted to the site content and audience. These advertisements are administered, sorted, and maintained by Google." 
         }
       ]
      
@@ -102,25 +102,25 @@
       "category": "3D Animation",
       "courses" : [
         {
-          "id" : 13,
+          "id" : 14,
           "name": "Professional 3d design", 
           "price" : 44,
           "img" : "https://i.postimg.cc/QdbmXSXB/animation.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+          "des" : "when you’re looking at a photo that just looks a little bit too perfect, or a little bit beyond the range of normal—an object or a landscape that’s in uncanny valley—there’s a chance you’re not looking at a photo at all. You could be looking at a hyper-realistic 3D design like the ones Willem Stapel creates. That’s not to say 3D designers can’t create images that are indistinguishable from photographs, they can, but the magic of 3D design is the ability to push images beyond the realistic and onto a new, magical plane." 
         }
       ]
     },
     {
       "id": "05",
-      "category": "Cyber Security",
+      "category": "Professional Cyber Security",
       "courses" : [
         {
-          "id" : 14,
+          "id" : 15,
           "catrgory_id" : 5,
           "name": "Professional cyber security", 
           "price" : 44,
           "img" : "https://i.postimg.cc/MGH7zSP4/cyber.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+          "des" : "At a mile-high level, cybersecurity professionals are responsible for protecting IT infrastructure, edge devices, networks, and data. More granularly, they are responsible for preventing data breaches and monitoring and reacting to attacksCybersecurity professionals are trained to find weaknesses in databases, networks, hardware, firewalls, and encryption. The number one priority of a cybersecurity professional is to prevent attacks by 'fixing' potential issues before they are exploited by malicious users" 
         }
       ]
       
@@ -130,18 +130,18 @@
       "category": "Network And Tecnology",
       "courses" : [
         {
-          "id" : 15,
+          "id" : 16,
           "name": "Cisco CCNA", 
           "price" : 44,
           "img" : "https://i.postimg.cc/PqVMDxvT/cisco.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+          "des" : "The CCNA—which stands for Cisco Certified Network Associate—is an entry-level information technology (IT) certification issued by networking hardware company Cisco. The CCNA is designed to validate your knowledge on fundamental networking concepts often requested in networking roles in IT positions.How long is Cisco CCNA course?According to the CCNA course details, the CCNA course duration is 1.5 years. Cisco exams have changed with the IT trends. The course certifies an aspirant's skills in network fundamentals, network access, IP connectivity, IP services, security fundamentals, automation, and programmability" 
         },
         {
-          "id" : 16,
+          "id" : 17,
           "name": "Microtik", 
           "price" : 44,
           "img" : "https://i.postimg.cc/ZR9xxS63/microtek.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+          "des" : "Mikrotik develops high performance routers and wireless ISP systems, providing both hardware and software for most countries around the world.the fastest and easiest way to learn RouterOS. Classes are taught using a hands on, practical approach by Steve Discher, an experienced MikroTik certified instructor and consultant and author of RouterOS by Example, first and second editions" 
         }
       ]
     },
@@ -150,12 +150,12 @@
       "category": "Cloud Computing",
       "courses" : [
         {
-          "id" : 17,
+          "id" : 18,
           "catrgory_id" : 7,
           "name": "Amazon web Service (AWS)", 
           "price" : 44,
           "img" : "https://i.postimg.cc/nrBKNGRh/aws.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
+          "des" : "Welcome to AWS Course. Learn Amazon AWS online at your own pace. Start today and improve your skills. Join millions of learners from around the world already learning on Udemy. Download To Your Phone. Expert Instructors. REST APIs With Flask. 30-Day Money Guarantee.Build your AWS Cloud Skills with AWS Training and Certification. Learn AWS online with free digital training, in-person classroom training" 
         }
       ]
     }
