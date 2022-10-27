@@ -44,20 +44,6 @@
           "price" : 38,
           "img" : "https://i.postimg.cc/gc5THKrZ/mongo.png",
           "des" : "Whether you are brand new to the tech field, or a seasoned software engineer, you’ll need to know your way around a database — especially for careers in back-end or full-stack development , data science, machine learning, or database administration. MongoDB is a popular NoSQL document-oriented database management system.NoSQL, or “not only SQL”, databases are fast and flexible, scalable, and quick to get started with."
-        },
-        {
-          "id" : 7,
-          "name": "MEAN Stack",
-          "price" : 44,
-          "img" : "https://i.postimg.cc/qM3ZbCCZ/mean.png",
-          "des" : "MEAN applications can be used in many ways with a cross-platform write-once approach. While MEAN is particularly suited to real-time applications, particularly those running natively in the cloud and single-page (dynamic) web applications built in Angular.js, it can be used for other use cases such as: Workflow management tools,News aggregation sites,Todo and,calendar applications,Interactive forum"
-        },
-        {
-          "id" : 8,
-          "name": "MERN Stack", 
-          "price" : 44,
-          "img" : "https://i.postimg.cc/t4GvLC3R/mern.png",
-          "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" 
         }
       ]
       
