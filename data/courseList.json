@@ -61,7 +61,7 @@
             "name": "Graphics Design", 
             "price" : 44,
             "img" : "https://i.postimg.cc/mg83xDwC/graphics.png",
-            "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" ,
+            "des" : "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts.Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers" ,
             "learn" : "Have a deep understanding of typography, color theory, photos, layout, blocking and other design theory and skills  ,Understand and learn the essential tools and capabilities of Adobe Photoshop, Illustrator and InDesign, Learn how to design websites ,Create logos and branding packages for potential clients ,Learn photo editing and manipulation in Adobe Photoshop",
             "courseTime" : "7 sections • 16 lectures • 6h 7m total length"
           },
@@ -70,7 +70,7 @@
               "name": "Motion graphics", 
               "price" : 44,
               "img" : "https://i.postimg.cc/3RD2DZHF/motion.png",
-              "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" ,
+              "des" : "Meet The All-In-One Platform for Video Creators. 600K+ Drag & Drop Creative Video Assets. Explore The Best Motion Graphics Get Unlimited Downloads. Realize Your Vision. Start Now! New Assets Added Daily. Professional Templates. Get Unique Transitions. Easy to Use,Motion graphics (sometimes mograph) are pieces of animation or digital footage which create the illusion of motion or rotation, and are usually combined with audio for use in multimedia projects" ,
               "learn" : "How to use all of After Effects CC - in a dynamic, hands on approach.  ,Boost your creativity by completing 50+ Practice Activities and projects from simple to complex., Create Motion Graphics to enhance your videos using a step by step, easy-to-use method, Practice compositing techniques to achieve stunning video effects.",
               "courseTime" : "4 sections • 17 lectures • 6h 0m total length"
             },
@@ -79,7 +79,7 @@
                 "name": "UI/UX design", 
                 "price" : 44,
                 "img" : "https://i.postimg.cc/mg83xDwC/graphics.png",
-                "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" ,
+                "des" : "UX (user experience) and UI (user interface) are two interdependent terms. While UI generally deals with the interaction between users and computer systems, software and applications, UX deals more generally with a user's overall experience with a brand, product or service. Both are important facets of the custom software development process, and both involve working closely with users to create interfaces that are both effective and easy to use" ,
                 "learn" : "Create mobile app designs from scratch  ,Understand the differences between designing for iOS and Android, Create wireframe designs for any digital project, Create mockups using Sketch and other tools ,Create animated prototypes , Start a new career as a UI/UX designer",
                 "courseTime" : "9 sections • 13 lectures • 7h 56,m total length"
             }, 
@@ -88,7 +88,7 @@
                 "name": "Digital marketing", 
                 "price" : 44,
                 "img" : "https://i.postimg.cc/V63B7VFh/digital-marketing.png",
-                "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" ,
+                "des" : "Master the tools of business strategy to contribute meaningfully to your organization. Create value for customers, employees, and suppliers, and generate financial success. Case-Based Learning. Award-Winning Faculty. Online Courses. Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services" ,
                 "learn" : "Grow a Business Online From Scratch , Make Money as an Affiliate Marketer, Get Hired as a Digital Marketing Expert ,Work From Home as a Freelance Marketer, Learn how to design websites",
                 "courseTime" : "2 sections • 16 lectures • 1h 0m total length"
               },
@@ -97,7 +97,7 @@
                 "name": "Google Adsense", 
                 "price" : 44,
                 "img" : "https://i.postimg.cc/yYCyc2xg/adsense.png",
-                "des" : "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes: Building an extensive backend API with Node.js & Express, Protecting routes/endpoints with JWT (JSON Web Tokens),Extensive API testing with Postman" ,
+                "des" : "Google AdSense is a program run by Google through which website publishers in the Google Network of content sites serve text, images, video, or interactive media advertisements that are targeted to the site content and audience. These advertisements are administered, sorted, and maintained by Google." ,
                 "learn" : "Asses if Keywords are profitable and worthy or not  ,Write SEO Optimized Articles, Create SEO Optimized Wordpress Site (No Coding!), Install, Read & Analyze Google Analytics Data, Install Google AdSense properly (for highest Earnings) and read Adsense Analytics Data, Create Google AdSense, Analytics and Webmaster Accounts ,Install & Use Google WebMaster Tools",
                 "courseTime" : "11 sections • 44 lectures • 3h 29m total length"
               },
@@ -106,7 +106,7 @@
                 "name": "Professional 3d design", 
                 "price" : 44,
                 "img" : "https://i.postimg.cc/QdbmXSXB/animation.png",
-                "des" : "hen you’re looking at a photo that just looks a little bit too perfect, or a little bit beyond the range of normal—an object or a landscape that’s in uncanny valley—there’s a chance you’re not looking at a photo at all. You could be looking at a hyper-realistic 3D design like the ones Willem Stapel creates. That’s not to say 3D designers can’t create images that are indistinguishable from photographs, they can, but the magic of 3D design is the ability to push images beyond the realistic and onto a new, magical plane." ,
+                "des" : "when you’re looking at a photo that just looks a little bit too perfect, or a little bit beyond the range of normal—an object or a landscape that’s in uncanny valley—there’s a chance you’re not looking at a photo at all. You could be looking at a hyper-realistic 3D design like the ones Willem Stapel creates. That’s not to say 3D designers can’t create images that are indistinguishable from photographs, they can, but the magic of 3D design is the ability to push images beyond the realistic and onto a new, magical plane." ,
                 "learn" : "Use Blender and understand it's interface ,Understand the principles of modelling , Create 3D models with simple colors, Learn the basics of animation, Create your own materials, UV map and unwrap your models, Create animations for your objects & characters",
                 "courseTime" : "17 sections • 340 lectures • 48h 31m total length"
               },
